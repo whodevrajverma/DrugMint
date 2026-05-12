@@ -10,7 +10,7 @@ where it helps prioritize small molecules that have the potential to become effe
 
 Dhanda, S.K., Singla, D., Mondal, A.K. et al.  **DrugMint: A web server for predicting and designing drug-like molecules.** *Biology Direct*, 8:28. [https://doi.org/10.1186/1745-6150-8-28](https://doi.org/10.1186/1745-6150-8-28) 
 
-This dataset is also available on Zenodo at
+This dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20094770
 
 ## About the Research
 
